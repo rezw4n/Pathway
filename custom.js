@@ -6,4 +6,4 @@ setTimeout(function(){
     let toLocation = document.querySelector(".directions-icon-arrive");
     toLocation.classList.remove('directions-icon-arrive');
     toLocation.innerText = "To";
-}, 900)
+}, 1000)
